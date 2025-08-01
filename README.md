@@ -27,9 +27,9 @@ multi-class-knn-bayes/
 ├── README_4.md               # This file
 ├── sample_plots_4.pdf        # Reference plots provided with the assignment
 └── datasets_assignment_4/
-    ├── dataset-2.1/           # 2D: Linearly separable dataset for 3 classes (train.csv, validation.csv, test.csv)
-    ├── dataset-2.1/           # 2D: Nonlinearly separable dataset for 2 classes (Train.csv, Val.csv, Test.csv)
-    └── dataset-2.3/           # 35-D image dataset for 5 classes (train_data.csv, train_label.csv, val_data.csv, val_label.csv, test_data.csv, test_label.csv)
+    ├── dataset-4.1/           # 2D: Linearly separable dataset for 3 classes (train.csv, validation.csv, test.csv)
+    ├── dataset-4.2/           # 2D: Nonlinearly separable dataset for 2 classes (Train.csv, Val.csv, Test.csv)
+    └── dataset-4.3/           # 35-D image dataset for 5 classes (train_data.csv, train_label.csv, val_data.csv, val_label.csv, test_data.csv, test_label.csv)
 ```
 
 ---
